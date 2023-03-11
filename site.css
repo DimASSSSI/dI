@@ -1,5 +1,5 @@
 body{
-	 background: linear-gradient(to right, #00bf8f, #001510);
+	 background: linear-gradient(to right, #00416a, #799f0c, #ffe000);
 }
 
 
@@ -15,14 +15,14 @@ h1{
 #menu{
 	width: 20%;
 	height: 800px;
-	 background: linear-gradient(to left, #000046, #1cb5e0);
+	 background: linear-gradient(to left, #fdfc47, #24fe41);
 
 	float: left;
 }
 #content{
 	width:80% ;
 	height: 800px;
-	  background: linear-gradient(to left, #000046, #1cb5e0);
+	  background: linear-gradient(to right, #0575e6, #021b79);
 	float: left;
 }
 h2{
@@ -70,7 +70,7 @@ footer{
 			text-align: justify;
 			margin-left: 30px;
 			margin-right: 30px;
-			text-indent: 27px;
+			text-indent: 23px;
 			line-height: 38px;
 			word-spacing: 15px;
 			font-family: 'Great Vibes', cursive;
